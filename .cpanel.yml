@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/junipear/dev.junipear.com/repo/
+    - /bin/cp -R images $DEPLOYPATH
