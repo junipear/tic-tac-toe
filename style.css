@@ -39,7 +39,7 @@ table tr td:last-child {
   display: none;
   width: 200px;
   top: 120px;
-  background-color: rgba(255,255,255, 0.8);
+  background-color: rgba(255,255,255, 0.3);
   position: absolute;
   left: 50%;
   margin-left: -100px;
